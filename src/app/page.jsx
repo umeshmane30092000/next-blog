@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function HomePage() {
   return (
-    <div className='bg-red-500'>Home</div>
+    <div className='text-red-500'>Home</div>
   )
 }
